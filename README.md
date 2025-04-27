@@ -23,7 +23,7 @@ It is fully **responsive** and designed to look great on desktops, tablets, and 
 ---
 📸 Preview
 Here’s a live demo of my website:  
-🌐 [Visit My Portfolio](https://yourusername.github.io/portfolio-website/)  
+🌐 [Visit My Portfolio](https://Akshitha7477.github.io/portfolio-website/)  
 
 ---
 📬 Contact Me
